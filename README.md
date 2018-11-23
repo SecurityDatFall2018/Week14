@@ -10,7 +10,7 @@ Pretty much this time ;-(
 
 Follow this [guide](https://docs.google.com/document/d/1v7pbEsQ24a4B07UjtFP3_hywqMF7URCRSr9EgpD2bUE/edit?usp=sharing), and install acording to your ambitions. If you pick the red track, you will have a perfect plaform to continue on, if you plan for a future related to security.
 
-
+*I will assume you have installed the software BEFORE the lesson. We will not spend time with this in the class. This is the fourth semester, so I expect you have heard about this "thing" called Google ;-)*
 
 ## What to Read/Watch
 
