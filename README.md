@@ -1,7 +1,5 @@
-# Week14
-Penetrations Testing and tools
-
-## An introduction to the topics:
+# Week14 - Penetrations Testing and Tools
+An introduction to the topics:
 - Security Testing
 - We will only focus on Penetration Testing
 - Tool used to do Penetration Testing (there are "billions, we will only look at a few)
