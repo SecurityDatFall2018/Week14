@@ -1,8 +1,8 @@
 # Week14 - Penetrations Testing and Tools
 An introduction to the topics:
 - Security Testing
-- We will only focus on Penetration Testing
-- Tool used to do Penetration Testing (there are "billions, we will only look at a few)
+- We will focus on Penetration Testing
+- Tools used to do Penetration Testing (there are "billions, we will only look at a few)
 - How to practice Penetration Testing Skills
 
 ## What to Install
