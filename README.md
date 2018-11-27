@@ -17,6 +17,8 @@ __*I will assume you have installed the software BEFORE the lesson. We will not 
 - Scan, as in SCAN ONLY, this [Table of Content](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents) just to see how big a topic this really is.
 - Read this [section](https://www.owasp.org/index.php/Testing_Guide_Introduction#The_OWASP_Testing_Project) from the guide refered to above. Read until the section "The need for a Balanced Approach"
 
+## Slides
+[Pentesting,tools and how to practice](https://docs.google.com/presentation/d/1GGWBiGaPAAJZHA8CfWyiMXmjFqZBNzNiN7NAYMQSTGg/edit?usp=sharing)
 
 ## Exercises
 
